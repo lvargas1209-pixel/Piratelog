@@ -1,0 +1,28 @@
+PIRATE LOG — proyecto PWA
+
+Qué incluye:
+- Guía de episodios desde el 207 y arcos posteriores.
+- Clasificación por colores: VER, SALTAR, CONSIDERAR.
+- Portadas ilustrativas por saga (no son capturas oficiales de cada episodio).
+- Progreso guardado localmente en el navegador.
+- Botón de consulta a ChatGPT con una instrucción para evitar spoilers posteriores al episodio actual.
+- Caché offline de la app y sus listas.
+
+IMPORTANTE SOBRE LA IA:
+No incluye una API de IA propia (eso normalmente requiere una clave y puede tener coste).
+El botón abre ChatGPT en el navegador/app, usando tu acceso habitual.
+
+INSTALACIÓN GRATIS EN ANDROID:
+1. Sube el contenido de esta carpeta a un repositorio público de GitHub.
+2. En el repositorio: Settings → Pages → Deploy from a branch → main / root.
+3. Espera a que GitHub Pages publique la dirección https://TUUSUARIO.github.io/TUREPO/
+4. Abre esa dirección en Chrome desde tu Android.
+5. Menú ⋮ → Instalar aplicación o Añadir a pantalla de inicio.
+6. Abre Pirate Log desde el icono. Tras la primera carga, las listas y portadas incluidas quedan disponibles sin conexión.
+
+NOTAS:
+- La PWA necesita HTTPS para instalarse; GitHub Pages ofrece alojamiento HTTPS gratuito.
+- El progreso se guarda en el almacenamiento local de ese navegador/dispositivo. Si borras los datos del navegador, se puede perder.
+- Las imágenes son portadas ilustrativas creadas para esta app, no imágenes oficiales.
+- La clasificación de episodios es una guía orientativa basada en la ruta conversada; conviene verificar episodios mixtos/recapitulaciones antes de usarla como lista definitiva.
+- El rango Egghead/continuación es una sección extensible y no garantiza que incluya todos los episodios emitidos a la fecha.
